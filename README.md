@@ -34,10 +34,30 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
+1.DEVICE CONNECTED
 
+<img width="1920" height="1080" alt="509451761-f6ae543e-83f1-496d-bd3e-61b978a1e0d0" src="https://github.com/user-attachments/assets/e8734bff-3f18-402c-9f6e-81fe6b1ebedf" />
 
+<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/73912272-87ad-4c10-b01f-78b7ec8a8964" />
 
-## Result: 
+2.DASHBOARD
 
+<img width="1920" height="1080" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/28fc455a-a8b8-4127-ac94-737d8a8d199b" />
+
+3.GATEWAY CONNECTED:
+
+<img width="1920" height="1080" alt="509452282-10a5721e-54fd-4e80-983c-16cf8a8be83b" src="https://github.com/user-attachments/assets/4d0fcd8a-32a0-4323-849b-ceaad6c466d8" />
+
+<img width="1920" height="1080" alt="509452457-520ab027-1fa2-42f0-b624-04cc5988ebe5" src="https://github.com/user-attachments/assets/8f19a0e7-a131-4125-a9d7-6998a5a0f13c" />
+
+<img width="1920" height="1080" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/fcb027d8-bced-43d8-b632-e8b941dd023c" />
+
+![WhatsApp Image 2025-12-01 at 18 38 36_7fa014b3](https://github.com/user-attachments/assets/b070f65f-d8b4-4296-a4c7-63085d2ed71d)
+
+![WhatsApp Image 2025-12-01 at 18 39 15_031d33e0](https://github.com/user-attachments/assets/0585e1a3-a8f8-419d-9e90-d64ac6f60492)
+
+<img width="1920" height="1080" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/7efb8a13-297a-4be5-a6cd-968d92a06e13" />
+
+## Result:
   The application server and network server data are added to the data dashboard using the visualization editor.
     
